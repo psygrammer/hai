@@ -1,2 +1,2 @@
-# hai
+# HAI
 Human &amp; Artificial Intelligence
